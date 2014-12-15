@@ -1,6 +1,6 @@
 {
   "name": "cf.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "minimal command line interface to compile and run programs.",
   "main": "app.js",
   "scripts": {
