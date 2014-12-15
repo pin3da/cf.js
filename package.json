@@ -1,0 +1,24 @@
+{
+  "name": "cf.js",
+  "version": "0.0.1",
+  "description": "minimal command line interface to compile and run programs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Pineda <manuel.felipe.pineda@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pin3da/cf.js"
+  },
+  "bugs": {
+    "url": "http://github.com/pin3da/cf.js/issues"
+  },
+  "license": "MPLv2",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.5.0",
+    "sync-exec": "^0.4.0"
+  }
+}
